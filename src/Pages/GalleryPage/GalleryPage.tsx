@@ -1,18 +1,15 @@
-
-
-import AllPhotos from '../../pagesComponents/Gallery/AllPhotos/AllPhotos'
-import Gallery from '../../pagesComponents/Gallery/GalleryHeader/Gallery'
-import GalleryLayout from '../../pagesComponents/Gallery/GalleryLayout/GalleryLayout'
+import AllPhotos from "../../pagesComponents/Gallery/AllPhotos/AllPhotos";
+import Gallery from "../../pagesComponents/Gallery/GalleryHeader/Gallery";
+import GalleryLayout from "../../pagesComponents/Gallery/GalleryLayout/GalleryLayout";
 
 const GalleryPage = () => {
   return (
     <div>
-        <Gallery/>
-        <GalleryLayout/>
-        <AllPhotos/>
-      
+      <Gallery />
+      <GalleryLayout />
+      <AllPhotos />
     </div>
-  )
-}
+  );
+};
 
-export default GalleryPage
+export default GalleryPage;

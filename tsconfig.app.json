@@ -22,5 +22,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src", "src/NavBar", "src/BigProjects"]
+  "include": ["src", "src/NavBar", "src/HomeComponents/Home/BigProjects"]
 }

@@ -1,14 +1,10 @@
-import RecommendedByExports from '../../Exports/RecommendedByExports'
-import Header from '../../HeaderHome2/Header'
-import RecentPosts from '../../RecentPosts/RecentPosts'
+import HomeHeader from '../../HomeComponents/Hom2/HomeHeader/HomeHeader'
 
 const Home2 = () => {
   return (
-   <>
-    <Header/>
-    <RecommendedByExports/>
-    <RecentPosts/>
-   </>
+    <div>
+      <HomeHeader/>
+    </div>
   )
 }
 
