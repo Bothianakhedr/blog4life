@@ -4,7 +4,7 @@ import img3 from "../../../assets/imgs/posts2.jpg";
 import img4 from "../../../assets/imgs/brandon-leclaire-S0ehguTNWzg-unsplash-ovsbgk86rsmc1e2zgvu92v.jpg";
 import img5 from "../../../assets/imgs/apothecary-87-0541KesIb00-unsplash-ovsbgk86rsnei6on7wk2puj86.jpg";
 import img6 from "../../../assets/imgs/allison-christine-vPrqHSLdF28-unsplash-scaled-ovsbgk86rspock.jpg";
-// import img7 from "../../../assets/imgs/juliet-furst-4Y2wkBirOfQ-unsplash-200x300.jpg";
+import img7 from "../../../assets/imgs/gallery/juliet-furst-4Y2wkBirOfQ-unsplash-scaled-ovsbgk86rsnei6on7wk.jpg";
 import img8 from "../../../assets/imgs/marya_volk-ZcU6eBGSg1U-unsplash-scaled-ovsbgk86rspock1sk79wu.jpg";
 import img9 from "../../../assets/imgs/img1.jpg";
 

@@ -6,7 +6,6 @@ import { FaDribbble } from "react-icons/fa6";
 import { navigateTo } from "@mongez/react-router";
 
 import { links } from "./data";
-import { ReactNode } from "react";
 
 const Navbar = () => {
   const handleNavigate = (route ) => {
